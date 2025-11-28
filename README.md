@@ -25,7 +25,7 @@ A hybrid CNN + Transformer model for detecting logic-based anomalies in Windows 
 1. Open PowerShell and clone the repo:
 
 ```powershell
-git clone https://github.com/yourusername/sysmon-hybrid-cnn-transformer.git
+git clone https://github.com/JustKamlesH21/sysmon-hybrid-cnn-transformer.git
 cd "Hybrid_CNN_Sysmon_using_CTI"
 ```
 
