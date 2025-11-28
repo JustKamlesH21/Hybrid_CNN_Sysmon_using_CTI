@@ -1,0 +1,3656 @@
+[
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\OpenAI.ChatGPT-Desktop_1.2025.258.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe\" --type=renderer --user-data-dir=\"C:\\Users\\beast\\AppData\\Local\\Packages\\OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0\\LocalCache\\Roaming\\ChatGPT\" --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-path=\"C:\\Program Files\\WindowsApps\\OpenAI.ChatGPT-Desktop_1.2025.258.0_x64__2p2nqsd0c76g0\\app\\resources\\app.asar\" --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1764168120182332 --launch-time-ticks=563665862 --field-trial-handle=2288,i,1375790439124127570,4672288076977037509,262144 --enable-features=EnableTransparentHwndEnlargement,FluentScrollbar,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3984 /prefetch:1",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\OpenAI.ChatGPT-Desktop_1.2025.258.0_x64__2p2nqsd0c76g0\\app\\ChatGPT.exe\" --type=renderer --user-data-dir=\"C:\\Users\\beast\\AppData\\Local\\Packages\\OpenAI.ChatGPT-Desktop_2p2nqsd0c76g0\\LocalCache\\Roaming\\ChatGPT\" --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --app-path=\"C:\\Program Files\\WindowsApps\\OpenAI.ChatGPT-Desktop_1.2025.258.0_x64__2p2nqsd0c76g0\\app\\resources\\app.asar\" --enable-sandbox --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1764168120182332 --launch-time-ticks=564163573 --field-trial-handle=2288,i,1375790439124127570,4672288076977037509,262144 --enable-features=EnableTransparentHwndEnlargement,FluentScrollbar,PdfUseShowSaveFilePicker --disable-features=ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3836 /prefetch:1",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2509.30.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe\" ms-screenclip:///?source=HotKey",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\svchost.exe -k LocalService -p -s CaptureService",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2509.30.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe\" ms-screenclip:///?source=HotKey",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\svchost.exe -k LocalService -p -s CaptureService",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2509.30.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe\" ms-screenclip:///?source=HotKey",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\svchost.exe -k LocalService -p -s CaptureService",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /ua /installsource scheduler",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\pip.exe\" install requests pywin32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\"  \"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\pip.exe\" install requests pywin32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\"  \"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\pip.exe\" install requests pywin32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\tools\\inno_updater.exe\" \"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" true \"Updating Visual Studio Code...\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\node-pty\\lib\\conpty_console_list_agent\" 9864",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\node-pty\\lib\\conpty_console_list_agent\" 18032",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\rundll32.exe shell32.dll,SHCreateLocalServerRunDll {c82192ee-6cb5-4bc0-9ef0-fb818773790a} -Embedding",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --folder-uri \"file:///c%%3A/Users/beast/Desktop/ML_CNN\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" -n",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --folder-uri \"file:///c%%3A/Users/beast/Desktop/ML_CNN\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\beast\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=74465d5e-6869-4ba7-b695-f6a664e011c2&iid=74465d5e-6869-4ba7-b695-f6a664e011c2&sid=74465d5e-6869-4ba7-b695-f6a664e011c2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.106.3 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=37.7.0 --initial-client-data=0x488,0x48c,0x490,0x484,0x494,0x7ff650406db4,0x7ff650406dc0,0x7ff650406dd0",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\beast\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=74465d5e-6869-4ba7-b695-f6a664e011c2&iid=74465d5e-6869-4ba7-b695-f6a664e011c2&sid=74465d5e-6869-4ba7-b695-f6a664e011c2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.106.3 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=37.7.0 --initial-client-data=0x46c,0x470,0x474,0x468,0x478,0x7ff650406db4,0x7ff650406dc0,0x7ff650406dd0",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --folder-uri \"file:///c%%3A/Users/beast/Desktop/ML_CNN\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1708 /prefetch:2",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1772,i,12000471651488974162,788784592139269574,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1760 /prefetch:2",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1732 /prefetch:11",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1772,i,12000471651488974162,788784592139269574,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=2004 /prefetch:11",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\" --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1764168120182256 --launch-time-ticks=919515607 --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3112 --vscode-window-config=vscode:3431a698-a46d-4a87-935d-7dd44f482044 /prefetch:1",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\beast\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=74465d5e-6869-4ba7-b695-f6a664e011c2&iid=74465d5e-6869-4ba7-b695-f6a664e011c2&sid=74465d5e-6869-4ba7-b695-f6a664e011c2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.106.3 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=37.7.0 --initial-client-data=0x46c,0x470,0x474,0x468,0x478,0x7ff650406db4,0x7ff650406dc0,0x7ff650406dd0",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\beast\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=74465d5e-6869-4ba7-b695-f6a664e011c2&iid=74465d5e-6869-4ba7-b695-f6a664e011c2&sid=74465d5e-6869-4ba7-b695-f6a664e011c2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.106.3 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=37.7.0 --initial-client-data=0x478,0x47c,0x480,0x474,0x484,0x7ff650406db4,0x7ff650406dc0,0x7ff650406dd0",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1704,i,6154484861662118743,9602184390768427309,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1680 /prefetch:2",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\" --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1764168120182256 --launch-time-ticks=919674268 --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3080 --vscode-window-config=vscode:518cedd3-e777-4a64-b500-df517ca1d3c9 /prefetch:1",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1696,i,14662110830846478357,7640790103185497238,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1684 /prefetch:2",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1704,i,6154484861662118743,9602184390768427309,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1904 /prefetch:11",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1696,i,14662110830846478357,7640790103185497238,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1920 /prefetch:11",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3776 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3740 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3732 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4100 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3656 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4396 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe\" tunnel status",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\.vscode\\extensions\\ms-python.python-2025.19.2025112401-win32-x64\\python-env-tools\\bin\\pet.exe server",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/pylock.*.toml -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --quiet --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\node-pty\\lib\\conpty_console_list_agent\" 3456",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4204 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3788 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/pylock.*.toml -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --quiet --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\.vscode\\extensions\\ms-python.python-2025.19.2025112401-win32-x64\\python-env-tools\\bin\\pet.exe server",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"pyenv which python\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\beast\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.1\\dist\\server.bundle.js --cancellationReceive=file:b60de8aa03a0fe0158b0fc9ee0db09e2660fb2dd22 --node-ipc --clientProcessId=17584",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os; print(os.urandom(32).hex())\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os; print(os.urandom(32).hex())\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(tuple(sys.version_info), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(tuple(sys.version_info), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe c:\\Users\\beast\\.vscode\\extensions\\ms-python.isort-2025.0.0\\bundled\\tool\\lsp_server.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe c:\\Users\\beast\\.vscode\\extensions\\ms-python.isort-2025.0.0\\bundled\\tool\\lsp_server.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13\\InstallPath /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python\\PyLauncher /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13\\InstallPath /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --disable-gpu-sandbox --use-gl=disabled --gpu-vendor-id=4098 --gpu-device-id=5761 --gpu-sub-system-id=466358339 --gpu-revision=200 --gpu-driver-version=32.0.21013.1000 --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADoAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1712,i,188470317528928191,17387097721945739600,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=4156 /prefetch:10",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/*requirement*.txt -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/{.venv*,.git,.nox,.tox,.conda,site-packages,__pypackages__}/** --no-ignore --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/requirements/*.txt -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/{.venv*,.git,.nox,.tox,.conda,site-packages,__pypackages__}/** --no-ignore --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\" c:/Users/beast/Desktop/ML_CNN/tt_collector.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\" c:/Users/beast/Desktop/ML_CNN/tt_collector.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\BraveSoftware\\Update\\BraveUpdate.exe\" /c",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\BraveSoftware\\Update\\BraveUpdate.exe\" /ua /installsource scheduler",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler.exe\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\BraveSoftware\\Update\\1.3.361.151\\BraveCrashHandler64.exe\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2509.30.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe\" ms-screenclip:///?source=HotKey",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\svchost.exe -k LocalService -p -s CaptureService",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\updater.exe\" --crash-handler --system \"--database=C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\Crashpad\" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=143.0.7482.0 \"--attachment=C:\\Program Files (x86)\\Google\\GoogleUpdater\\updater.log\" --initial-client-data=0x27c,0x280,0x284,0x234,0x288,0x7ff6bdd78e44,0x7ff6bdd78e50,0x7ff6bdd78e60",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\updater.exe\" --crash-handler --system \"--database=C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\Crashpad\" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=143.0.7482.0 \"--attachment=C:\\Program Files (x86)\\Google\\GoogleUpdater\\updater.log\" --initial-client-data=0x284,0x288,0x28c,0x260,0x290,0x7ff6bdd78e44,0x7ff6bdd78e50,0x7ff6bdd78e60",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\updater.exe\" --crash-handler --system \"--database=C:\\Program Files (x86)\\Google\\GoogleUpdater\\143.0.7482.0\\Crashpad\" --url=https://clients2.google.com/cr/report --annotation=prod=Update4 --annotation=ver=143.0.7482.0 \"--attachment=C:\\Program Files (x86)\\Google\\GoogleUpdater\\updater.log\" --initial-client-data=0x274,0x278,0x27c,0x250,0x280,0x7ff6bdd78e44,0x7ff6bdd78e50,0x7ff6bdd78e60",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\wbem\\wmiprvse.exe -secured -Embedding",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Opera GX\\autoupdate\\opera_autoupdate.exe\" --scheduledtask --productiscomponent --bypasslauncher --installdir=\"C:\\Users\\beast\\AppData\\Local\\Programs\\Opera GX\\assistant\" --producttype=assistant $(Arg0)",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Opera GX\\autoupdate\\opera_autoupdate.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\Crash Reports\" \"--crash-count-file=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\crash_count.txt\" --url=https://crashstats-collector-2.opera.com/ --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktopGX --annotation=ver=124.0.5705.38 --initial-client-data=0x268,0x26c,0x270,0x244,0x274,0x7ff7db900e38,0x7ff7db900e44,0x7ff7db900e50",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Opera GX\\assistant\\assistant_installer.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Opera GX\\assistant\\assistant_installer.exe\" --type=crashpad-handler /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\Crash Reports\" \"--crash-count-file=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\crash_count.txt\" --url=https://crashstats-collector-2.opera.com/ --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktopGX --annotation=ver=119.0.5497.186 --initial-client-data=0x210,0x214,0x218,0x1ec,0x21c,0x7ff77b9b2ea0,0x7ff77b9b2eac,0x7ff77b9b2eb8",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Temp\\.opera\\636B5D80F8E4\\assistant_installer.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Users\\beast\\AppData\\Local\\Temp\\.opera\\636B5D80F8E4\\assistant_installer.exe --type=crashpad-handler /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\Crash Reports\" \"--crash-count-file=C:\\Users\\beast\\AppData\\Roaming\\Opera Software\\Opera GX Stable\\crash_count.txt\" --url=https://crashstats-collector-2.opera.com/ --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktopGX --annotation=ver=119.0.5497.186 --initial-client-data=0x214,0x218,0x21c,0x1f0,0x220,0x7ff7e2852ea0,0x7ff7e2852eac,0x7ff7e2852eb8",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\node-pty\\lib\\conpty_console_list_agent\" 27668",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\node-pty\\lib\\conpty_console_list_agent\" 24116",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" ",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=crashpad-handler --user-data-dir=C:\\Users\\beast\\AppData\\Roaming\\Code /prefetch:4 --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=C:\\Users\\beast\\AppData\\Roaming\\Code\\Crashpad --url=appcenter://code?aid=a4e3233c-699c-46ec-b4f4-9c2a77254662&uid=74465d5e-6869-4ba7-b695-f6a664e011c2&iid=74465d5e-6869-4ba7-b695-f6a664e011c2&sid=74465d5e-6869-4ba7-b695-f6a664e011c2 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.106.3 --annotation=plat=Win64 --annotation=prod=Electron --annotation=ver=37.7.0 --initial-client-data=0x460,0x464,0x468,0x45c,0x46c,0x7ff650406db4,0x7ff650406dc0,0x7ff650406dd0",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=gpu-process --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --gpu-preferences=UAAAAAAAAADgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1676 /prefetch:2",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=1876 /prefetch:11",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=renderer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-user-model-id=Microsoft.VisualStudioCode --app-path=\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\" --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --video-capture-use-gpu-memory-buffer --lang=en-US --device-scale-factor=1.25 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1764168120169465 --launch-time-ticks=1253751150 --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3084 --vscode-window-config=vscode:6cf1f1d5-fa78-4469-8914-73fa87b67938 /prefetch:1",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3584 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --experimental-network-inspection --inspect-port=0 --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3628 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3720 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --video-capture-use-gpu-memory-buffer --user-data-dir=\"C:\\Users\\beast\\AppData\\Roaming\\Code\" --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --field-trial-handle=1680,i,14293240473030227190,13818309607943970162,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports,EarlyEstablishGpuChannel,EnableTransparentHwndEnlargement,EstablishGpuChannelAsync --disable-features=CalculateNativeWinOcclusion,FontationsLinuxSystemFonts,ScreenAIOCREnabled,SpareRendererForSitePerProcess,WinDelaySpellcheckServiceInit --variations-seed-version --mojo-platform-channel-handle=3716 /prefetch:14",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe\" tunnel status",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\.vscode\\extensions\\ms-python.python-2025.19.2025112401-win32-x64\\python-env-tools\\bin\\pet.exe server",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/pylock.*.toml -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --quiet --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/node_modules -g !**/bower_components -g !**/*.code-search --no-ignore-parent --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"pyenv which python\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\json-language-features\\server\\dist\\node\\jsonServerMain\" --node-ipc --clientProcessId=22296",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13\\InstallPath /reg:64",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKLM\\SOFTWARE\\Python\\PyLauncher /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe c:\\Users\\beast\\.vscode\\extensions\\ms-python.isort-2025.0.0\\bundled\\tool\\lsp_server.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13 /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe c:\\Users\\beast\\.vscode\\extensions\\ms-python.isort-2025.0.0\\bundled\\tool\\lsp_server.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\reg.exe QUERY HKCU\\SOFTWARE\\Python\\PythonCore\\3.13\\InstallPath /reg:32",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" c:\\Users\\beast\\.vscode\\extensions\\ms-python.vscode-pylance-2025.10.1\\dist\\server.bundle.js --cancellationReceive=file:fef226f3596ccdb081082877b26e4e9570b5ea107b --node-ipc --clientProcessId=22296",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os; print(os.urandom(32).hex())\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(tuple(sys.version_info), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os; print(os.urandom(32).hex())\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -I -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(tuple(sys.version_info), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/tsconfig*.json -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/{node_modules,.*}/** --no-ignore --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --version",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "c:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe -c \"import os, os.path, sys; normalize = lambda p: os.path.normcase(os.path.normpath(p)); cwd = normalize(os.getcwd()); orig_sys_path = [p for p in sys.path if p != \\\"\\\"]; sys.path[:] = [p for p in sys.path if p != \\\"\\\" and normalize(p) != cwd]; import sys, json; json.dump(dict(path=orig_sys_path, prefix=sys.prefix), sys.stdout)\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/*requirement*.txt -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/{.venv*,.git,.nox,.tox,.conda,site-packages,__pypackages__}/** --no-ignore --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\system32\\cmd.exe /d /s /c \"wsl.exe -l -q\"",
+        "mitre_id": "T1059.003",
+        "mitre_name": "Windows Command Shell",
+        "mitre_desc": "Adversaries may abuse the Windows command shell for execution. The Windows command shell ([cmd](https://attack.mitre.org/software/S0106)) is the primary command prompt on Windows systems. The Windows ",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\node_modules\\@vscode\\ripgrep\\bin\\rg.exe\" --files --hidden --case-sensitive --no-require-git -g **/requirements/*.txt -g !**/.git -g !**/.svn -g !**/.hg -g !**/.DS_Store -g !**/Thumbs.db -g !**/{.venv*,.git,.nox,.tox,.conda,site-packages,__pypackages__}/** --no-ignore --follow --no-config --no-ignore-global",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -noexit -command \"try { . \\\"c:\\Users\\beast\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\\\" } catch {}\"",
+        "mitre_id": "T1059.001",
+        "mitre_name": "PowerShell",
+        "mitre_desc": "Adversaries may abuse PowerShell commands and scripts for execution. PowerShell is a powerful interactive command-line interface and scripting environment included in the Windows operating system.(Cit",
+        "label": 1
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\" c:/Users/beast/Desktop/ML_CNN/tt_collector.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Users\\beast\\Desktop\\ML_CNN\\.venv\\Scripts\\python.exe\" c:/Users/beast/Desktop/ML_CNN/tt_collector.py",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    },
+    {
+        "CommandLine": "\"C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe\" context ls --format \"{{json .}}\"",
+        "mitre_id": "Benign",
+        "mitre_name": "Normal",
+        "mitre_desc": "",
+        "label": 0
+    }
+]

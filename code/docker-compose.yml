@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  # Service for Training the Model
+  train:
+    image: ml_hybrid_cnn_sysmon
+    build: .
+    volumes:
+      - .:/app
+    entrypoint: ["python", "src/train.py"]
+
+  # Service for Evaluating the Model
+  evaluate:
+    image: sysmon-ai
+    build: .
+    volumes:
+      - .:/app
+    entrypoint: ["python", "src/evaluate.py"]

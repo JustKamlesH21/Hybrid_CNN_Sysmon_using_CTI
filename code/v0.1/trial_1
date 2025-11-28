@@ -1,0 +1,54 @@
+import json
+import random
+import os
+
+OUTPUT_FILE = os.path.join("data", "sysmon_logictrap.json")
+SAMPLES = 500
+
+# TRAP EXPLANATION:
+# Both labels contain the EXACT same tokens.
+# Only the order changes.
+# CNN (with Global Pooling) sees: Average(Features).
+# Since Average(A,B) == Average(B,A), the CNN cannot distinguish them.
+# The Transformer (with Positional Encoding) CAN see the difference.
+
+TOKEN_START = "PROCESS_INITIATE_VALIDATION"
+TOKEN_END   = "PROCESS_TERMINATE_SUCCESS"
+
+def get_noise(length=50):
+    # Sufficient noise ensures a single Kernel-5 filter can't span both tokens
+    words = ["thread", "handle", "memory", "allocation", "virtual", "address", "stack", "heap", "pointer"]
+    return " ".join(random.choices(words, k=length))
+
+def generate():
+    logs = []
+    print(f"[*] Generating {SAMPLES} Logic-Trap samples...")
+
+    for _ in range(SAMPLES):
+        noise = get_noise()
+        is_malicious = random.choice([True, False])
+        
+        if is_malicious:
+            # MALICIOUS PATTERN: End comes before Start (Impossible/Anomaly)
+            # Sequence: [END] ... [START]
+            cmd = f"{TOKEN_END} {noise} {TOKEN_START}"
+            label = 1
+        else:
+            # SAFE PATTERN: Start comes before End (Normal)
+            # Sequence: [START] ... [END]
+            cmd = f"{TOKEN_START} {noise} {TOKEN_END}"
+            label = 0
+            
+        logs.append({
+            "CommandLine": cmd,
+            "Image": "C:\\Windows\\System32\\svchost.exe",
+            "User": "System",
+            "label": label
+        })
+
+    with open(OUTPUT_FILE, 'w') as f:
+        json.dump(logs, f, indent=4)
+    print(f"[+] Saved to {OUTPUT_FILE}")
+
+if __name__ == "__main__":
+    generate()

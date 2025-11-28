@@ -1,0 +1,2 @@
+# run this exactly (the .\ is required)
+.\.venv\Scripts\Activate.ps1
