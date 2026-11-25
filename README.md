@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/banner-m.svg"><img src="assets/readme/banner.svg" width="100%" alt="Sysmon Hybrid AI: a CNN finds local patterns in Sysmon command lines and a Transformer checks their order, so a process that ends before it starts gets flagged."></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/banner-m.png"><img src="assets/readme/banner.svg" width="100%" alt="Sysmon Hybrid AI: a CNN finds local patterns in Sysmon command lines and a Transformer checks their order, so a process that ends before it starts gets flagged."></picture>
 </p>
 
 <p align="center">
@@ -11,13 +11,13 @@
 Keyword rules catch `mimikatz` in a command line. They miss an event whose words are all ordinary but arrive in an order that cannot happen, such as a process that terminates before it starts. This project trains a small model to catch that. Three CNN filters read short runs of tokens in a Windows Sysmon command line, and a Transformer encoder then looks at the whole line, including the order. `evaluate.py` scores it and draws a saliency map of the tokens that drove each decision.
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/proof-m.svg"><img src="assets/readme/proof.svg" width="100%" alt="One CPU run: 99 percent accuracy on 307 held-out lines, 83 of 84 malicious lines caught, 1 false alarm in 223 normal lines, about 1,900 lines per second."></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/proof-m.png"><img src="assets/readme/proof.svg" width="100%" alt="One CPU run: 99 percent accuracy on 307 held-out lines, 83 of 84 malicious lines caught, 1 false alarm in 223 normal lines, about 1,900 lines per second."></picture>
 </p>
 
 These numbers come from one training run on a laptop CPU with the data shipped in this repository (4 epochs, a 70/30 split with seed 42). Training starts from random weights, so a rerun moves them slightly.
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.svg"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Nov 2025; Stack: PyTorch · scikit-learn · Sysmon; Status: Trained model included; 99% on held-out data"></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.png"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Nov 2025; Stack: PyTorch · scikit-learn · Sysmon; Status: Trained model included; 99% on held-out data"></picture>
 </p>
 
 ## Quick start
@@ -38,7 +38,7 @@ The `copy` step matters: the shipped datasets sit in `code/`, but every script r
 ## How it works
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/how-it-works-m.svg"><img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: collect 5 minutes of Sysmon events with MITRE ATT&CK labels, generate 500 logic-trap samples, merge them, embed and run three CNN kernels, a one-layer Transformer, and output a probability plus a saliency map."></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/how-it-works-m.png"><img src="assets/readme/how-it-works.svg" width="100%" alt="How it works: collect 5 minutes of Sysmon events with MITRE ATT&CK labels, generate 500 logic-trap samples, merge them, embed and run three CNN kernels, a one-layer Transformer, and output a probability plus a saliency map."></picture>
 </p>
 
 1. **Collect** (`src/tt_collector.py`, Windows, run as Administrator with Sysmon installed). Reads the `Microsoft-Windows-Sysmon/Operational` log for 5 minutes and tags events with MITRE ATT&CK techniques, downloaded live from [MITRE's CTI repository](https://github.com/mitre/cti).
@@ -66,7 +66,7 @@ The `copy` step matters: the shipped datasets sit in `code/`, but every script r
 ## Architecture
 
 <p align="center">
-  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.svg"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. windows host: Sysmon log, tt_collector.py; data: logic_trap.py, data.py; model · shared.py: Embedding, 3 × Conv1d, Transformer; outputs: sysmon_model.pth, evaluate.py"></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.png"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. windows host: Sysmon log, tt_collector.py; data: logic_trap.py, data.py; model · shared.py: Embedding, 3 × Conv1d, Transformer; outputs: sysmon_model.pth, evaluate.py"></picture>
 </p>
 
 ## Earlier ablation
@@ -93,5 +93,5 @@ An earlier comparison against a CNN-only baseline reported higher malicious reca
 No license file has been added yet, so default copyright applies.
 
 <p align="center">
-  <a href="https://github.com/JustKamlesH21"><picture><source media="(max-width: 767px)" srcset="assets/readme/footer-m.svg"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></picture></a>
+  <a href="https://github.com/JustKamlesH21"><picture><source media="(max-width: 767px)" srcset="assets/readme/footer-m.png"><img src="assets/readme/footer.svg" width="100%" alt="Part of Kamlesh OS. More projects on github.com/JustKamlesH21"></picture></a>
 </p>
