@@ -16,6 +16,10 @@ Keyword rules catch `mimikatz` in a command line. They miss an event whose words
 
 These numbers come from one training run on a laptop CPU with the data shipped in this repository (4 epochs, a 70/30 split with seed 42). Training starts from random weights, so a rerun moves them slightly.
 
+<p align="center">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.svg"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Nov 2025; Stack: PyTorch · scikit-learn · Sysmon; Status: Trained model included; 99% on held-out data"></picture>
+</p>
+
 ## Quick start
 
 ```powershell
