@@ -59,6 +59,12 @@ The `copy` step matters: the shipped datasets sit in `code/`, but every script r
   <img src="saliency_map.png" width="100%" alt="Saliency map: importance score for each token of a malicious logic-trap command line.">
 </p>
 
+## Architecture
+
+<p align="center">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/architecture-m.svg"><img src="assets/readme/architecture.svg" width="100%" alt="Architecture. windows host: Sysmon log, tt_collector.py; data: logic_trap.py, data.py; model · shared.py: Embedding, 3 × Conv1d, Transformer; outputs: sysmon_model.pth, evaluate.py"></picture>
+</p>
+
 ## Earlier ablation
 
 An earlier comparison against a CNN-only baseline reported higher malicious recall for the hybrid (0.95 against 0.88) and fewer missed attacks (4 against 10). The script and log for that comparison are not in this repository, so it can't be rerun as is. To compare yourself, build `HybridCNNTransformer(vocab, use_transformer=False)` in `train.py` and `evaluate.py`.
